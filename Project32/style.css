@@ -1,0 +1,38 @@
+body{
+    background-image: url('landing_page.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-image:center;
+    margin: 0;
+    margin: 0;
+    
+}
+
+h1{
+    color: #FFFFFF;
+    margin-left: 81px;
+    margin-top: 300px;
+    margin-bottom: -10px;
+    font-size: 48px;
+}
+
+p{
+    color: #FFFFFF;
+    margin-left: 81px;
+    
+}
+
+.pp{
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 7px;
+    margin-left: 81px;  
+    width: 65px; 
+    height: 10px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 14px;
+}
+
